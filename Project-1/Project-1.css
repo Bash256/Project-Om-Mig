@@ -1,0 +1,32 @@
+footer {
+	text-align: center;
+	padding: 1px;
+    background-color: rgba(54, 27, 7, 0.493) ;
+    color: rgb(255, 225, 225) ;
+}
+
+body {
+	background-color: rgb(253, 123, 71) ;
+	color: rgb(255, 225, 225);
+	font-family: sans-serif;
+    margin: 0;
+    font-size: 5mm;
+}
+
+h1 {
+    background-color: rgba(54, 27, 7, 0.493) ;
+	color:  rgb(255, 225, 225);
+	font-family: sans-serif;
+    margin:0px;
+    padding: 10px;
+}
+
+section {
+    padding: 10px;
+}
+
+section img {
+    width: 30%;
+	display:block;
+    border-radius: 14px;
+}
